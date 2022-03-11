@@ -1,0 +1,9 @@
+MÉTODOS DE ENVIO
+- GET
+envia dados pela URL, por isso é aconselhado usar apenas dados simples
+
+-POST
+envia dados direto (criptografados)
+
+-REQUEST
+podemos usa-lo na pagina php mesmo que no html esteja usando GET ou POST, porém posui menos segurança
